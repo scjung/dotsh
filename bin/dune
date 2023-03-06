@@ -1,0 +1,4 @@
+(executable
+ (public_name dotsh)
+ (name main)
+ (libraries dotsh))
